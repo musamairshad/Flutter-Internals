@@ -1,1 +1,1 @@
-# This repository is related to Flutter internals and how Flutter works behind the scenes.
+# This repository is related to Flutter internals and how things work in Flutter behind the scenes.
